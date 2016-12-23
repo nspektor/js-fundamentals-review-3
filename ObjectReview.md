@@ -63,7 +63,8 @@ getObjName({name: 'Snorlax', type: 'normal'});  // returns 'Snorlax'
 
  1. Create an array of 3-5 objects, where each object describes one of your favorite movies and has properties for the `title`, `genre`, and `year_released`.
  2. Make a function that logs the first movie's `year_released`
- 3. Make a function that uses `forEach` to log each movie's `year_released` 
+ 3. Make a function that uses `forEach` to log each movie's `year_released`
+ 4. Make a function that uses `reduce` to make a String that contains "My favorite movies are : " and then the list of the movies' names
 
 ### Q5. javascript-simple-objects-2
 
